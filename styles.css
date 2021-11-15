@@ -1,0 +1,10 @@
+.header {
+    margin: auto;
+}
+.footer {
+    margin: auto;
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
